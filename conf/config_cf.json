@@ -1,0 +1,13 @@
+{"map": "ortakoy.png" , 
+ "par": "ortakoy.par", 
+ "hst": "ortakoy/rssiHistograms_50.hst",
+ "grd": "ortakoy/grids/cf_50_0.1.grd" ,
+ "dev": "ortakoy.dev",
+ "trk": "tracks/synthetic_track_noisy.trk",
+ "err": "errors/cf_20000_200_50.err",
+ "prc": 32,
+ "szP": 500,
+ "szB": 500,
+ "trn": 0,
+ "brn": 32
+}

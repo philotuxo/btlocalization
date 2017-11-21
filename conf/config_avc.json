@@ -1,0 +1,13 @@
+{"map": "ortakoy.png" , 
+ "par": "ortakoy.par", 
+ "hst": "ortakoy/rssiHistograms_50.hst",
+ "grd": "ortakoy/grids/avc_50_0.1.grd" ,
+ "dev": "ortakoy.dev",
+ "trk": "tracks/synthetic_track_noisy.trk",
+ "err": "errors/avc_20000_200_50.err",
+ "prc": 4,
+ "szP": 20000,
+ "szB": 20000,
+ "trn": 0,
+ "brn": 32
+}
