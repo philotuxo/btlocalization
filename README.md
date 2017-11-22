@@ -10,3 +10,5 @@ Model-Based Localization and Tracking Using Bluetooth Low-Energy Beacons. Sensor
 # Gui
 You can find several gui based diagnosis and data acquisition tools. 
 
+# Data
+You can also find a set of long and dense BLE data collected from an indoor environment. Its description is available in the mentioned paper.
