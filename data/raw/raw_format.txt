@@ -1,0 +1,7 @@
+Each file includes data for a fingerprint location. (sbd for single beacon data)
+File name: 
+<location ID>_<x>_<y>_<z>.sbd
+
+File format:
+Each line is a sample:
+<time stamp>, [dongle MAC], <beacon MAC>, rssi

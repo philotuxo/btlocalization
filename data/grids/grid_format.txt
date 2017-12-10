@@ -1,0 +1,8 @@
+Filename: <method>_<fingerprint configuration>_<grid size>.grd
+
+File format:
+Header for sizes:
+[ <one corner in 2D>, <other corner in 2D> ] :: <grid size>
+
+Each line is a grid and center positions are not need to be sorted.
+<grid center in 2D>::<y_index>::<x_index>::<beacon MAC>::<histogram of the grid>

@@ -1,0 +1,8 @@
+Line starting with "Beacon" for the beacon information in dict format:
+Beacon: { <MAC string>: [<2D position>, <int color code>, <Human readable name> ], ... }
+
+Line starting with "Fingerprints" for the histograms in dict format:
+Fingerprints: {<string of 3D position tuple>: {<MAC string of beacon>: <list of histogram measures>, ... } }
+
+Line starting with "Bins" for the bins of the histograms:
+Bins: <list of bin indexes>

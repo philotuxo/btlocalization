@@ -1,0 +1,2 @@
+Samples are sorted by time, starting at t=0.0. Each sample is in the list format.
+[ <timestamp>, [<3D real position>], ..., <Beacon MAC string>, <rssi> ]
